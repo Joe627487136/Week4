@@ -23,8 +23,8 @@ public class Exercise5Test {
 
     @Test
     public void test1exercise5() {
-        int pos = exercise5.exercise5(1);
-        assertTrue(pos==1);
+        int pos = exercise5.exercise5(21474*8996648);
+        assertTrue(pos==-1);
     }
     @Test
     public void test2exercise5() {
@@ -33,7 +33,7 @@ public class Exercise5Test {
     }
     @Test
     public void test3exercise5() {
-        int pos = exercise5.exercise5(-21);
-        assertTrue(pos==-1);
+        int pos = exercise5.exercise5(-21474*8996648);
+        assertTrue(pos==1);
     }
 }
