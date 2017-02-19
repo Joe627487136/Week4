@@ -11,6 +11,7 @@ For all Cohort question and matched files which are embeded:
 + CE7. BiSectionTestStatementCoverage.java (https://github.com/Joe627487136/Week4/blob/master/BiSectionTestStatementCoverage.java)
 + CE8.1. Russianblackbox.java (https://github.com/Joe627487136/Week4/blob/master/Russianblackbox.java)
 + CE8.2. Russianwhitebox.java (https://github.com/Joe627487136/Week4/blob/master/Russianwhitebox.java)
++ CE8.3. Russianfaultbased.java (https://github.com/Joe627487136/Week4/blob/master/Russianfaultbased.java)
 + HW: 1.1 refer to game state machine || 1.2 refer to game test cases
 + HW1.1. GameChain.java (https://github.com/Joe627487136/Week4/blob/master/GameChain.java)
 + HW1.2. Gametest.java (https://github.com/Joe627487136/Week4/blob/master/Gametest.java)
