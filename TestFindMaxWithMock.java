@@ -9,7 +9,7 @@ import org.junit.Test;
 
 public class TestFindMaxWithMock {
     @Test
-    public void testfindmax() {
+    public void testCalculatingMachine() {
         int[] array = {10,50,30};
         int[] finialarray = {10, 30, 50};
         Mockery context = new JUnit4Mockery();
